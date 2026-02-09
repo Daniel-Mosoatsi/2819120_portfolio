@@ -1,0 +1,1 @@
+I learnt how to create my own website and how to utilize Github.I learnt that html has a sematic structure that let's the coding of html readable  and easy to understand and hiow to commit files to save them on my Github repository.
